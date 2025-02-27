@@ -86,7 +86,5 @@ This project explores **multi-class and multi-label classification** using **Sup
 - **Try other clustering techniques** like DBSCAN or Hierarchical Clustering.
 - **Implement active learning** to reduce labeled data requirements.
 
-## Author
 
-This project was developed as part of **DSCI 552** at the **University of Southern California (USC)**. It showcases expertise in **multi-label classification, support vector machines, clustering, and class imbalance handling**.
 
